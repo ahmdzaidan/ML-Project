@@ -34,7 +34,7 @@ Below is a list of my key projects, ranging from Natural Language Processing (NL
 
 ## 📬 Contact Me
 
-I am open to discussions, collaborations, and opportunities related to Data Science and ML Engineering.
+I am open to discussions, collaborations, and opportunities related to Data Science and ML Engineering. 
 
 * **LinkedIn:** [Ahmad Zaidan Al-Anshory](https://www.linkedin.com/in/ahmdzaidan/)
 * **Email:** [ahmdzanshory@gmail.com](ahmdzanshory@gmail.com)
