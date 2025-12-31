@@ -20,22 +20,6 @@ Below is a list of my key projects, ranging from Natural Language Processing (NL
     * **PDF Parsing:** Automated text extraction from PDF documents.
 * **Tech Stack:** `FastAPI` `Python` `SBERT` `OpenAI/Gemini API` `Jinja2`
 
-### 2. 📊 Bank Jago Sentiment Analysis
-* **Overview:** A data analysis project focused on understanding customer satisfaction for a digital banking app. It processes user reviews from the Google Play Store to derive actionable business insights.
-* **Key Features:**
-    * Automated data cleaning and preprocessing using Polars for high performance.
-    * Sentiment classification using pre-trained BERT models (IndoBERT).
-    * Visualizations including Sentiment Distribution and Dynamic WordClouds.
-* **Tech Stack:** `Pandas` `Polars` `Matplotlib` `Seaborn` `Hugging Face Transformers`
-
-### 3. 📺 YouTube Comment Analyzer
-* **Overview:** A real-time market research tool that scrapes and analyzes audience sentiment from YouTube video comments.
-* **Key Features:**
-    * Real-time comment scraping via YouTube API/Wrappers.
-    * Immediate sentiment breakdown (Positive/Neutral/Negative).
-    * Generates downloadable PDF reports with AI-summarized insights.
-* **Tech Stack:** `Python` `Web Scraping` `FPDF` `Sentiment Analysis Pipeline`
-
 ---
 
 ## 🛠️ Technical Skills
@@ -48,14 +32,12 @@ Below is a list of my key projects, ranging from Natural Language Processing (NL
 
 ---
 
-## mw 📬 Contact Me
+## 📬 Contact Me
 
 I am open to discussions, collaborations, and opportunities related to Data Science and ML Engineering.
 
-* **Name:** Ahmad Zaidan Al-Anshory
-* **LinkedIn:** [Insert your LinkedIn URL here]
-* **Email:** [Insert your Email Address here]
-* **GitHub:** [Insert your GitHub URL here]
+* **LinkedIn:** [Ahmad Zaidan Al-Anshory](https://www.linkedin.com/in/ahmdzaidan/)
+* **Email:** [ahmdzanshory@gmail.com](ahmdzanshory@gmail.com)
 
 ---
 *© 2025 Ahmad Zaidan Al-Anshory. All Rights Reserved.*
